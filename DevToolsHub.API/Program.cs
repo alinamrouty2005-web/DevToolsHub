@@ -176,7 +176,9 @@ app.UseAuthentication();
 
 app.UseAuthorization();
 
+// ==========================================
 // Controllers
+// ==========================================
 
 app.MapControllers();
 
