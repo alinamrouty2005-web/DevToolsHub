@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Documentation/">
+    <File Path="Documentation/DevToolsHub_API_Documentation.md" />
+  </Folder>
+  <Folder Name="/Postman/">
+    <File Path="Postman/DevToolsHub.postman_collection.json" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="PROJECT_STATUS.md" />
+  </Folder>
+  <Project Path="DevToolsHub.API/DevToolsHub.API.csproj" />
+  <Project Path="DevToolsHub.Core/DevToolsHub.Core.csproj" />
+  <Project Path="DevToolsHub.DataAccess/DevToolsHub.DataAccess.csproj" />
+  <Project Path="DevToolsHub.Infrastructure/DevToolsHub.Infrastructure.csproj" />
+</Solution>
